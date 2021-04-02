@@ -8,7 +8,7 @@ using UnityEngine;
 
 namespace TimeAccelerator
 {
-    internal class TimeAcceleratorSettings : ModSettingsBase
+    internal class TimeAcceleratorSettings : JsonModSettings
     {
         [Name("Acceleration key")]
         [Choice("A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z")]
