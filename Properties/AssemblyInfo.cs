@@ -35,5 +35,5 @@ using System.Runtime.InteropServices;
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("2.0.1")]
 [assembly: AssemblyFileVersion("2.0.1")]
-[assembly: MelonInfo(typeof(TimeAccelerator.Implementation), "TimeAccelerator", "2.0.1", "AlexTheRegent, ds5678")]
+[assembly: MelonInfo(typeof(TimeAccelerator.Implementation), "TimeAccelerator", "2.0.2", "AlexTheRegent, ds5678")]
 [assembly: MelonGame("Hinterland", "TheLongDark")]

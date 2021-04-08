@@ -40,7 +40,7 @@
     <Reference Include="Il2CppSystem, Version=3.7.1.6, Culture=neutral, processorArchitecture=MSIL">
       <Private>False</Private>
     </Reference>
-    <Reference Include="KeyboardUtilities, Version=1.2.0.0, Culture=neutral, processorArchitecture=MSIL">
+    <Reference Include="KeyboardUtilities, Version=1.2.1.0, Culture=neutral, processorArchitecture=MSIL">
       <Private>False</Private>
     </Reference>
     <Reference Include="MelonLoader.ModHandler, Version=0.2.7.4, Culture=neutral, processorArchitecture=MSIL">

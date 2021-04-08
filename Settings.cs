@@ -25,6 +25,7 @@ namespace TimeAccelerator
 
         protected override void OnConfirm()
         {
+            base.OnConfirm();
             Settings.accelerationKey = KeyCode.A + accelerationKey;
             Settings.holdToAccelerate = accelerationBehaviour == 0;
             Settings.accelerationValue = accelerationValue;
