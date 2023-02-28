@@ -1,9 +1,16 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31005.135
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeAccelerator", "TimeAccelerator.csproj", "{052D0DE9-B920-452A-A0B5-6423F91E9F74}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimeAccelerator", "TimeAccelerator\TimeAccelerator.csproj", "{17E83280-EEB3-401F-A356-A9A1B2890BEE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2294D49D-70B6-4309-943F-193B2AA169ED}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +18,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{052D0DE9-B920-452A-A0B5-6423F91E9F74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{052D0DE9-B920-452A-A0B5-6423F91E9F74}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{052D0DE9-B920-452A-A0B5-6423F91E9F74}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{052D0DE9-B920-452A-A0B5-6423F91E9F74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17E83280-EEB3-401F-A356-A9A1B2890BEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17E83280-EEB3-401F-A356-A9A1B2890BEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17E83280-EEB3-401F-A356-A9A1B2890BEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17E83280-EEB3-401F-A356-A9A1B2890BEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
